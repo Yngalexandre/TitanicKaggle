@@ -41,4 +41,4 @@ Prédire si un passager a survécu au naufrage du Titanic à partir de ses carac
 ## 👤 Auteur
 
 **Alexandre Yang** – Étudiant ingénieur à l'ECE Paris  
-[LinkedIn](https://linkedin.com/in/VOTRE_PROFIL) <!-- https://www.linkedin.com/in/alexandre-yang-a9a5a32b3/ -->
+[LinkedIn](https://linkedin.com/in/VOTRE_PROFIL) https://www.linkedin.com/in/alexandre-yang-a9a5a32b3/ 
